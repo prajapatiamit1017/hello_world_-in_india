@@ -3,4 +3,5 @@ Just another repository
 hi,
 this is fycs computer science.
 practical.no 07 on github.
+on college
 by.
